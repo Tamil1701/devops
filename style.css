@@ -9,8 +9,8 @@ body{
 }
 
 .container{
-    background: #00FF7F;
-    color: aliceblue;
+    background: #708090;
+    color: SlateGray;
     padding: 20px;
     border-radius: 10px;
 }
